@@ -3,6 +3,6 @@ Code to accompany the paper on Large-scale cooperation driven by reputation, not
 
 This includes the code to replicate the analyses conducted in the paper.
 
-The relevant data files can be download from Dryad   doi:10.5061/dryad.g48v3m0.
+The relevant data files can be download from <a  href ="https://doi.org/10.5061/dryad.g48v3m0"> Dryad </a>.
 
 Questions should be directed to geeh13@lzu.edu.cn
