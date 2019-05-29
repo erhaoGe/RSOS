@@ -1,4 +1,4 @@
-# RSOS
+# Code and data for Erhao Ge et al "Large-scale cooperation driven by reputation, not fear of divine punishment".
 Code to accompany the paper on Large-scale cooperation driven by reputation, not fear of divine punishment by Erhao Ge et al.
 
 This includes the code to replicate the analyses conducted in the paper.
